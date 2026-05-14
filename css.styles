@@ -5,7 +5,7 @@ background-colour: #FFC0CB;
 text-align: center;
 }
 
-header{
+header {
 background-colour: #FF0000;
 padding: 15px
 }
